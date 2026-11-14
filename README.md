@@ -52,3 +52,5 @@ Criar uma solução simples para ajudar na organização das tarefas diárias.
 ## 👨‍💻 Autor
 
 Desenvolvido por mim!
+
+Revisão feita na IA!
