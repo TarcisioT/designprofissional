@@ -53,4 +53,4 @@ Criar uma solução simples para ajudar na organização das tarefas diárias.
 
 Desenvolvido por mim!
 
-Revisão feita na IA!
+*revisão feita na IA*
